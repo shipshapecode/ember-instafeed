@@ -1,12 +1,21 @@
 {
   "name": "ember-instafeed",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Enables using Instafeed in Ember to pull in images from Instagram.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "instafeed",
+    "instafeed.js",
+    "instagram",
+    "hashtag",
+    "photos"
   ],
   "license": "MIT",
-  "author": "",
+  "author": {
+    "name": "Robert Wagner",
+    "email": "rwwagner90@gmail.com",
+    "url": "https://github.com/rwwagner90"
+  },
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -47,5 +56,18 @@
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
+  },
+  "greenkeeper": {
+    "ignore": [
+      "broccoli-asset-rev",
+      "ember-cli-babel",
+      "ember-cli-htmlbars",
+      "ember-cli-htmlbars-inline-precompile",
+      "ember-cli-qunit",
+      "ember-cli-sri",
+      "ember-export-application-global",
+      "ember-resolver",
+      "loader.js"
+    ]
   }
 }
