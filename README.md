@@ -1,26 +1,21 @@
-# ember-instafeed
+# Ember-Instafeed
 
-This README outlines the details of collaborating on this Ember addon.
+<a href="https://shipshape.io/"><img src="http://i.imgur.com/bU4ABmk.png" width="100" height="100"/></a>
+
+[![npm version](https://badge.fury.io/js/ember-instafeed.svg)](http://badge.fury.io/js/ember-instafeed)
+![Download count all time](https://img.shields.io/npm/dt/ember-instafeed.svg)
+[![npm](https://img.shields.io/npm/dm/ember-instafeed.svg)]()
+[![Ember Observer Score](http://emberobserver.com/badges/ember-instafeed.svg)](http://emberobserver.com/addons/ember-instafeed)
+[![Build Status](https://travis-ci.org/shipshapecode/ember-instafeed.svg)](https://travis-ci.org/shipshapecode/ember-instafeed)
+
+Installs `Instafeed` and exposes it to your project. It will not import anything if your app is running in FastBoot.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd ember-instafeed`
-* `npm install`
+`ember install ember-instafeed`
 
-## Running
+## Usage
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+`import Instafeed from 'instafeed';`
 
-## Running Tests
-
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
+To use, you just need to import `Instafeed` in whatever file you'd like to use it in.
