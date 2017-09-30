@@ -1,6 +1,6 @@
 # Ember-Instafeed
 
-<a href="https://shipshape.io/"><img src="http://i.imgur.com/bU4ABmk.png" width="100" height="100"/></a>
+<a href="https://shipshape.io/"><img src="http://i.imgur.com/KVqNjgO.png" width="100" height="100"/></a>
 
 [![npm version](https://badge.fury.io/js/ember-instafeed.svg)](http://badge.fury.io/js/ember-instafeed)
 ![Download count all time](https://img.shields.io/npm/dt/ember-instafeed.svg)
